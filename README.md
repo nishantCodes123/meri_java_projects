@@ -15,7 +15,7 @@ A simple and clean **To-Do List GUI application** built using **Java Swing**. It
 
 ## 📸 Screenshots
 
-> (Add screenshots of your GUI here if possible — it helps users understand your app instantly.)
+> A visual representation of the project:
 
 (https://github.com/user-attachments/assets/a40fc2d0-03a5-4a96-8b6c-b29d70a5f732)
 
